@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;}
+
+.container{
+      width: 534px;
+      height: 634px;
+      /* background-color: rgb(255, 4, 4); */
+      border: 2px solid red;
+      color: aliceblue;
+      background-image: url(space.jpg);
+      background-repeat: no-repeat;
+      background-size: 100px 130px;
+      background-position:left;
+}
+
+body{
+      /* height: 404px; */
+}
